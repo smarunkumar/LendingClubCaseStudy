@@ -1,4 +1,4 @@
-# Project Name
+# Lending Club Case Study
 > Outline a brief description of your project.
 
 
@@ -28,9 +28,11 @@
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- pandas library - version 2.0.3
+- numpy library - version 1.24.3
+- seaborn library - version 0.12.2
+- matplotlib library - version 3.7.2
+- plotly library - version 5.9.0
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
