@@ -1,13 +1,9 @@
 # Lending Club Case Study
-<<<<<<< HEAD
 > Lending Club is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Borrowers can easily access lower interest rate loans through a fast online interface.
 
 Like most other lending companies, lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss). Credit loss is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed. In other words, borrowers who default cause the largest amount of loss to the lenders. In this case, the customers labelled as 'charged-off' are the 'defaulters'.
 
 So, the objective of this project is  to identify these risky loan applicants using Exploratory Data Analysis.
-=======
-> Outline a brief description of your project.
->>>>>>> 21cc48ca99c74a23a8a0e3f02d295ea91805830a
 
 
 ## Table of Contents
