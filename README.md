@@ -29,10 +29,13 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Loans for Debt consolidation, Small Business, credit card and home improvement applicants should be checked properly or Loans can be provided with lower rate of interest to these applicants as there are more no of defaulters in these categories.
+- Loans also taken for purpose as “other” need to be verified properly.
+- Default rate was high for verified loan applicants. So, Verification process strictly needs to be amended else there could be higher loss to LC/investors.
+- Lower annual income applicants should be avoided for big loan amounts with higher interest rates.
+- Loan approvals must be utmost taken care in the months of November and December as there are higher no of defaulters in these months.
+- Loans approval for applicants from states located along the border of the USA exhibit a higher default rate and hence applicants from these areas should be properly verified.
+- Applicants of work experience >=10 years and have applied loan for debt consolidation and lived in rented or mortgage houses are more prone to defaulters. Hence, these type of applicants should be properly handled.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -48,13 +51,15 @@
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was taken as a part of AIML - Jan2024 EDA case study
+- References: 
+- Plotly template refered from https://levelup.gitconnected.com/using-python-for-geographical-plotting-d9328fb8cfab
+  
+
 
 
 ## Contact
-Created by [@smarunkumar] - feel free to contact me!
+Created by [@smarunkumar]/[@mansisharmapb] - feel free to contact me!
 
 
 <!-- Optional -->
